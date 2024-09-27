@@ -1,4 +1,4 @@
----
+---<a href="https://dontkillmyapp.com/vivo"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/vivo3.svg"></a>
 manufacturer: 
     - vivo
 
